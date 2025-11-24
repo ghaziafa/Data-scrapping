@@ -1,2 +1,2 @@
 # Data-scrapping
-This repository contains projects about fetching data from online sources and preparing it for report generation.
+This repository contains projects on data fetching from online sources and preparing it for report generation.
